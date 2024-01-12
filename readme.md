@@ -1,0 +1,1 @@
+ssh -o "StrictHostKeyChecking no" -o "UserKnownHostsFile /dev/null" -o "PasswordAuthentication yes" tim@localhost -p 5000
